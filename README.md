@@ -47,7 +47,7 @@
         <font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">Sou programador Full-Stack apaixonado pelo que faço. </font>
             <br/>
-            <font style="vertical-align: inherit;">Gosto de ajudar e insentivar pessoas que estão chegando nessa área</font>
+            <font style="vertical-align: inherit;">Gosto de ajudar e insentivar pessoas que estão chegando nessa área.</font>
             <br/>
             <font style="vertical-align: inherit;">Espero que algum dos meus projetos possa te ajudar em alguma coisa</font>
             <br/>
@@ -55,6 +55,13 @@
             <font style="vertical-align: inherit;">Volte sempre 😉 </font>
         </font>
     </p>
+    <h6>
+        <font style="vertical-align: inherit;">
+            <font style="vertical-align: inherit;">
+                _Linguagens e ferramentas
+            </font>
+        </font>
+    </h6>
     <p>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
