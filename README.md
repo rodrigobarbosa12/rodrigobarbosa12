@@ -47,9 +47,9 @@
         <font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">Sou programador Full-Stack apaixonado pelo que faço. </font>
             <br/>
-            <font style="vertical-align: inherit;">Gosto de ajudar e insentivar pessoas que estão chegando nessa área.</font>
+            <font style="vertical-align: inherit;">Gosto de ajudar e incentivar pessoas que estão chegando nessa área.</font>
             <br/>
-            <font style="vertical-align: inherit;">Espero que algum dos meus projetos possa te ajudar em alguma coisa</font>
+            <font style="vertical-align: inherit;">Espero que algum dos meus projetos possa te ajudar em alguma coisa.</font>
             <br/>
             <br/>
             <font style="vertical-align: inherit;">Volte sempre 😉 </font>
