@@ -45,14 +45,8 @@
     <br/>
     <p>
         <font style="vertical-align: inherit;">
-            <font style="vertical-align: inherit;">Sou programador Full-Stack apaixonado pelo que faço. </font>
+            <font style="vertical-align: inherit;">🧑🏽‍💻 Oi! Meu nome é Rodrigo, sou programador há mais de 4 anos e jogador de vídeo game há uns 20</font>
             <br/>
-            <font style="vertical-align: inherit;">Gosto de ajudar e incentivar pessoas que estão chegando nessa área.</font>
-            <br/>
-            <font style="vertical-align: inherit;">Espero que algum dos meus projetos possa te ajudar em alguma coisa.</font>
-            <br/>
-            <br/>
-            <font style="vertical-align: inherit;">Volte sempre 😉 </font>
         </font>
     </p>
     <h6>
