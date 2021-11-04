@@ -28,10 +28,6 @@
         <a target="_blank" href="mailto:arycleniobarros@gmail.com">
             <img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?logo=gmail&logoColor=white&style=flat" />
         </a>
-        
-        <a target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
-            <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/-Linkedin-007ec6?logo=linkedin&logoColor=white&style=flat" />
-        </a>
         <!-- 
             <a target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
                 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
