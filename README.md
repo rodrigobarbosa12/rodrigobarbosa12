@@ -23,7 +23,7 @@
     </p>
     <p>
         <a target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
-            <img align="left" alt="LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+            <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
         </a>
         <!-- <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
             <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -35,7 +35,7 @@
             <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
         </a> -->
         <a target="_blank" href="mailto:arycleniobarros@gmail.com">
-            <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
+            <img align="left" alt="Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
         </a>
         <!-- <a target="_blank" href="https://fb.com/aryxb">
             <img align="left" alt="Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" />
