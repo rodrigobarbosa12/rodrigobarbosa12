@@ -41,7 +41,7 @@
     <br/>
     <p>
         <font style="vertical-align: inherit;">
-            <font style="vertical-align: inherit;">🧑🏽‍💻 Oi! Meu nome é Rodrigo, sou programador há 4 anos e jogador de vídeo game há uns 20</font>
+            <font style="vertical-align: inherit;">🧑🏽‍💻 Oi! Meu nome é Rodrigo, sou programador há 5 anos e jogador de vídeo game há uns 20</font>
             <br/>
         </font>
     </p>
