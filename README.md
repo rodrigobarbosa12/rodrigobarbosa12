@@ -41,7 +41,7 @@
     <br/>
     <p>
         <font style="vertical-align: inherit;">
-            <font style="vertical-align: inherit;">🧑🏽‍💻 Oi! Meu nome é Rodrigo, sou programador há 5 anos e jogador de vídeo game há uns 20</font>
+            <font style="vertical-align: inherit;">🧑🏽‍💻 Desenvolvedor com mais de 6 anos de experiência em aplicações complexas, altamente comprometido com a aplicação de style guides, clean code e clean architecture, garantindo a excelência e qualidade no desenvolvimento de software.</font>
             <br/>
         </font>
     </p>
