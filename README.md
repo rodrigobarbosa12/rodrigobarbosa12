@@ -45,6 +45,14 @@
             <br/>
         </font>
     </p>
+    <p>
+        <font style="vertical-align: inherit;">🧠 Hard Skills</font><br/>
+<font style="vertical-align: inherit;">✔️ Back-End: Typescript/NodeJs, Go, PHP, RESTful & GraphQL, Kafka</font><br/>
+<font style="vertical-align: inherit;">✔️ Front-End: ReactJs/NextJs, React Native, Micro-Frontend, PWA/SPA</font><br/>
+<font style="vertical-align: inherit;">✔️ Database: PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Stored Procedures, Triggers</font><br/>
+<font style="vertical-align: inherit;">✔️ DevOps & Infrastructure: Docker, Kubernetes, CI/CD, AWS/GCP, Linux/Unix, Nginx, Apache, Firewalls, Monitoring (DataDog, Grafana)</font><br/>
+<font style="vertical-align: inherit;">✔️ Collaboration & Quality: Advanced Git, Code Review, Automated Testing (Jest, Cypress, Mocha, k6)</font>
+    </p>
     <h6>
         <font style="vertical-align: inherit;">
             <font style="vertical-align: inherit;">
