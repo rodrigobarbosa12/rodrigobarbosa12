@@ -41,7 +41,7 @@
     <br/>
     <p>
         <font style="vertical-align: inherit;">
-            <font style="vertical-align: inherit;">🧑🏽‍💻 Desenvolvedor com mais de 7 anos de experiência em aplicações complexas, altamente comprometido com a aplicação de style guides, clean code e clean architecture, garantindo a excelência e qualidade no desenvolvimento de software.</font>
+            <font style="vertical-align: inherit;">🧑🏽‍💻 Engenheiro de Software Sênior experiente, com mais de 8 anos de experiência na indústria de software, liderando projetos complexos e de alto impacto com forte foco em arquiteturas escaláveis ​e de alto desempenho. Habilidade em desenvolvimento full-stack, soluções nativas em nuvem e práticas de DevOps. Apaixonado por entregar sistemas robustos, sustentáveis ​e escaláveis ​que resolvam problemas do mundo real.</font>
             <br/>
         </font>
     </p>
