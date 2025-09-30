@@ -26,7 +26,7 @@
             <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/-Linkedin-007ec6?logo=linkedin&logoColor=white&style=flat" />
         </a>
         <a target="_blank" href="mailto:rodrigobarbosa.dev@outlook.com">
-            <img align="left" alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?logo=gmail&logoColor=white&style=flat" />
+            <img align="left" alt="Gmail" src="https://img.shields.io/badge/-Outlook-30B980?logo=minutemailer&logoColor=white&style=flat" />
         </a>
         <!-- 
             <a target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
