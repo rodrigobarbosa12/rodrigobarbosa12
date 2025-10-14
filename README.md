@@ -15,13 +15,6 @@
         </font>
     </h1>
     <p>
-        <font style="vertical-align: inherit;">
-            <font style="vertical-align: inherit;">
-                @Mtrix.
-            </font>
-        </font>
-    </p>
-    <p>
         <a target="_blank" href="https://www.linkedin.com/in/rodrigo-barbosa-7a1429157/">
             <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/-Linkedin-007ec6?logo=linkedin&logoColor=white&style=flat" />
         </a>
